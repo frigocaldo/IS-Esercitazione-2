@@ -13,7 +13,7 @@ public class Calcolatrice {
         return a-b;
     }
 
-    public int Divisione(int a, int b){
+    public float Divisione(int a, int b){
         return a/b;
     }
 
